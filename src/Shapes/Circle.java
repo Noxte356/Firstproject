@@ -12,7 +12,6 @@ public class Circle extends Shape {
     }
 
     @Override
-
     public void drawShape(int factor) {
         JFrame frame = new JFrame("Фигурки");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
